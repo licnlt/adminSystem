@@ -1,0 +1,12 @@
+*{padding: 0;margin:0;}
+
+table,td,th{
+	border:1px solid blue;
+	text-align: center;
+}
+table{
+	width:600px;
+	margin:auto;
+	font-size: 16px;
+	margin-top: 50px;
+}
